@@ -1,0 +1,12 @@
+body {
+    max-width: 680px;
+    margin: 64px auto;
+    padding: 0 24px;
+
+    font-family: system-ui, sans-serif;
+    font-size: 18px;
+    line-height: 1.7;
+
+    background-color: #faf9f6;
+    color: #292929;
+}
