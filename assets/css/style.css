@@ -10,3 +10,17 @@ body {
     background-color: #faf9f6;
     color: #292929;
 }
+
+nav {
+    display: flex;
+    gap: 24px;
+}
+
+header {
+    margin-bottom: 36px;
+}
+
+h1 {
+    font-size: 28px;
+    font-weight: 600;
+}
