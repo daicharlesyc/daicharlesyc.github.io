@@ -5,4 +5,12 @@ title: Blog
 
 <h1>My blog</h1>
 <p>I'm going to write some random thoughts here !</p>
-<p>No posts yet.</p>
+<ul>
+    {% for post in site.posts %}
+        <li>
+            <a href="{{ post.url | relative_url }}">
+                {{ post.title }}
+            </a>
+        </li>
+    {% endfor %}
+</ul>>
