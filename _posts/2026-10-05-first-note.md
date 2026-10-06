@@ -1,9 +1,7 @@
 ---
-layout: default
-title: "My first note"
+layout: post
+title: "My first note for the world !"
 ---
-
-# My first note to the world (yay!)
 
 This a practice post
 

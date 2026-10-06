@@ -5,9 +5,12 @@ title: Blog
 
 <h1>My blog</h1>
 <p>I'm going to write some random thoughts here !</p>
-<ul>
+<ul class="post-list">
     {% for post in site.posts %}
         <li>
+            <span class="post-date">
+                {{ post.date | date: "%B %-d, %Y" }}
+            </span>
             <a href="{{ post.url | relative_url }}">
                 {{ post.title }}
             </a>
