@@ -35,11 +35,42 @@ h1 {
     align-items: baseline;
     flex-wrap: wrap;
     gap: 4px 40px;
-    margin-bottom: 24px;
+    margin-bottom: 20px;
 }
+
 
 .post-date {
     font-size: 18px;
     color: #666;
     white-space: nowrap;
+}
+
+a {
+    color: #365f4b;
+    text-underline-offset: 4px;
+}
+
+a:hover {
+    color: #203d2e;
+}
+
+nav a, .post-list a {
+    text-decoration: none;
+
+    background-image: linear-gradient(currentColor, currentColor);
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: 0% 1px;
+
+    transition: background-size 0.3s ease, color 0.3s ease;
+}
+
+nav a:hover, .post-list a:hover, nav a:focus-visible, .post-list a:focus-visible {
+    background-size: 100% 1px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    nav a, .post-list a {
+        transition: none;
+    }
 }
