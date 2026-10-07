@@ -5,7 +5,7 @@ title: "Hello, World!"
 
 Hi all!
 
-I'm going to talk a little bit about why I wanted to build my own website.
+For my first blog, I wanted to talk a little bit about why I began to build my own website.
 
 Over the past few weeks, I have been looking for a research internship in AI, and thus I've been skimming through many AI researchers' websites. Some of them were really cool, because they let me learn a lot or get a sense of who they are. I think that's one of the reasons why I have decided to make my own, and that's what I hope to offer too !
 
