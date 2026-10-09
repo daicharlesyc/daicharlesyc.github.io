@@ -3,7 +3,7 @@ layout: post
 title: About Mental Models
 ---
 
-Recently, I've been reading two very interesting books, called "The Underlying Logic: How to See the Essence of Things" by Liu Run (which is in Chinese) and "Poor Charlie's Almanack", a compilation of talks by Charlie Munger, the famous associate of Warren Buffett. While reading them, it struck me that they had a common approach to thinking, which Charlie Munger calls "mental models", and I used to call "points of view" in my head. I shared my thoughts about mental models in an English course last Friday, but I still have so many things to say about it, so I decided to turn it into a blog post.
+Recently, I've been reading two very interesting books, called "The Underlying Logic: How to See the Essence of Things" by Liu Run (which is in Chinese) and "Poor Charlie's Almanack", a compilation of talks by Charlie Munger, the famous associate of Warren Buffett. While reading them, it struck me that they had a common approach to thinking, which Charlie Munger calls "mental models", and I used to call "points of view" in my head. I shared my thoughts about mental models in an English course last Friday, but I still have so many things to say about it, so I decided to turn it into a blog post!
 
 ## A little about myself
 
