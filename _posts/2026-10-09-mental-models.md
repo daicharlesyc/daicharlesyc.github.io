@@ -29,7 +29,7 @@ The second idea I want to present is more abstract, but very beautiful. It comes
 
 ![Image of a diagram]({{ '/assets/image/category.jpg' | relative_url }})
 
-*An example of diagram in category theory. A, B, C are the objects, 1\_A, 1\_B, 1\_C, f, g, fg are names for arrows.*
+*An example of a diagram in category theory. A, B, C are the objects, 1\_A, 1\_B, 1\_C, f, g, fg are names for arrows.*
 
 In this theory, there is a very interesting mathematical property, called Yoneda's lemma. Formally, a consequence of Yoneda’s lemma is that an object is determined up to isomorphism by the morphisms into it from all objects in the category, together with how those morphisms compose. More roughly, the structure of the relationships of an object with the others in a category <i>determines</i> the object. And it is easy to see that the idea of looking at relationships instead of the objects is very deep, and goes way beyond the field of mathematics, because it reminds us that we can understand an object or an idea by understanding its relationships with other objects. For example, we can learn about someone by observing his behavior, or, as my English teacher quoted André Malraux, "We learn more about a Greek statue by comparing it with an Egyptian statue than by studying ten Greek statues".
 
@@ -37,4 +37,4 @@ I also thought about this when watching a video about Heidegger. Roughly, it see
 
 I've applied this mental model to Heidegger, but you can apply it to practically anything, as anything has relationships with other things and can be compared! I think this mental model is very interesting because it encourages us to think of things as a system with interactions rather than isolated objects. And as in the comparison between Greek and Egyptian statues, we shouldn't only focus on analogies, but also on the differences that arise during comparisons.
 
-Speaking of analogy, I also used these two mental models as analogies. We should be aware not only of where they work, but also of their limitations. Never forget to *philosophize with a hammer* and test your assumptions! This is another reason why I value having diverse mental models: when I relied on only a few, I tended to tie my identity to them, which made them harder to question.
+Speaking of analogy, I also used these two mental models as analogies. We should be aware not only of where they work, but also of their limitations. Never forget to *philosophize with a hammer*! This is another reason why I value having diverse mental models: when I relied on only a few, I tended to tie my identity to them, which made them harder to question.
