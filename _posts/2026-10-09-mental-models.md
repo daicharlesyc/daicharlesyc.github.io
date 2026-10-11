@@ -38,3 +38,6 @@ I also thought about this when watching a video about Heidegger. Roughly, it see
 I've applied this mental model to Heidegger, but you can apply it to practically anything, as anything has relationships with other things and can be compared! I think this mental model is very interesting because it encourages us to think of things as a system with interactions rather than isolated objects. And as in the comparison between Greek and Egyptian statues, we shouldn't only focus on analogies, but also on the differences that arise during comparisons.
 
 Speaking of analogy, I also used these two mental models as analogies. We should be aware not only of where they work, but also of their limitations. Never forget to *philosophize with a hammer*! This is another reason why I value having diverse mental models: when I relied on only a few, I tended to tie my identity to them, which made them harder to question.
+
+Hope this was interesting!
+Charles
