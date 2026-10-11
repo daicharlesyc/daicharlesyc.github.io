@@ -40,4 +40,5 @@ I've applied this mental model to Heidegger, but you can apply it to practically
 Speaking of analogy, I also used these two mental models as analogies. We should be aware not only of where they work, but also of their limitations. Never forget to *philosophize with a hammer*! This is another reason why I value having diverse mental models: when I relied on only a few, I tended to tie my identity to them, which made them harder to question.
 
 Hope this was interesting!
+
 Charles
