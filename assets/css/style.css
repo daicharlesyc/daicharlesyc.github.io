@@ -92,4 +92,50 @@ body.fonts-loading main {
         transition: none;
         transform: none;
     }
+    header {
+        transition: none;
+        transform: none;
+    }
+}
+
+header {
+    opacity: 1;
+    transform: translateY(0);
+    transition: opacity 2s ease, transform 1.4s ease;
+}
+
+body.fonts-loading header {
+    opacity: 0;
+    transform: translateY(8px);
+}
+
+.intro {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 24px;
+}
+
+.profile-photo {
+    width: 290px;
+    height: 290px;
+    flex-shrink: 0;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+@media (max-width: 600px) {
+    .intro {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+}
+@media (min-width: 601px) {
+    .profile-photo {
+        position: relative;
+        top: -69px;
+    }
+    .intro {
+        margin-bottom: -60px;
+    }
 }
