@@ -134,6 +134,7 @@ body.fonts-loading header {
     .profile-photo {
         position: relative;
         top: -69px;
+        left: -10px;
     }
     .intro {
         margin-bottom: -60px;
