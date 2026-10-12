@@ -20,8 +20,17 @@
             {{ content }}
         </main>
         <script>
+            document.body.classList.add("fonts-loading");
+
+            const showContent = () => {
+                document.body.classList.remove("fonts-loading");
+            };
+
+            const timeout = setTimeout(showContent, 2000);
+
             document.fonts.ready.then(() => {
-                document.body.classList.add("fonts-ready");
+                clearTimeout(timeout);
+                showContent();
             });
         </script>
     </body>
